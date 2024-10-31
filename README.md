@@ -19,8 +19,6 @@ This project has been done with node v20.17.0 and npm 10.8.2. Make sure you have
     node src/index.js
    ```
 
-3. Open the file `ìndex.html` in your browser
-
 ## More things
 
 The project is structured in different parts, `script` for the functions of initialising and updating
